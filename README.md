@@ -1,4 +1,5 @@
 # Multiverse-Portfolio
+____
 This repository houses many of the different projects I've worked on during my apprenticeship with Warner Music Group. This apprenticeship has offered me the opportunity to learn valuable skills while also working and putting those skills to use. I've grown from an inexperienced developer into a well rounded Software Engineer through this apprenticeship. Here are a few projects to showcase the different aspects of learning I've worked on.  
 
 
@@ -8,6 +9,7 @@ This repository houses many of the different projects I've worked on during my a
 **Duration of Apprenticeship**: 15 Months.
 
 I had the opportunity to work within the royalty-processing team, where I helped create new and maintain existing formats for file ingestion. I've learned a lot of valuable backend skills, including hadoop and data-pipelines. This experience has provided me with the opportunity to learn from real world experiences, while learning best practices from veteran engineers.
+____
 
 
 # Portfolio Introduction
