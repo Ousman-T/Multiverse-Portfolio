@@ -15,7 +15,7 @@ ____
 ____
 **S** - While upskilling and learning on the job, Multiverse tasked us with creating a project based around CI/CD in order to display competencies. <br/>
 **T** - I decided to instead dockerize an already built project in order to make continuously working on the project easier to do. The project was a portfolio built for our front end module using react, bootstrap, and material ui, I decided to dockerize this already existing application. <br/>
-**A** Due to dockerizing the application, improvements can be made to the portfolio at the blink of an eye! My main challenge was getting familiar with the fundamental basics of Docker, which ended up being a real interesting learning opportunity.
+**A** Due to dockerizing the application, improvements can be made to the portfolio at the blink of an eye! My main challenge was getting familiar with the fundamental basics of Docker, which ended up being a real interesting learning opportunity. <br/>
 **R** - Project completely fulfilled the intended purpose of it. I've learned a lot about the CI/CD lifecycle and also identified areas of growth, like automating continuous integration or continuous deployment. 
 # Competencies 
 ____
