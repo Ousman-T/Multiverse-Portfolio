@@ -1,32 +1,33 @@
 # Book Keeping Application
-____
-A backend application designed to keep track of a user's reading. The application supports full CRUD operations where a user can create, view, update, and remove books that they've read. The application also has various different endpoints meant to handle different operations. Data is persisted via PostgreSQL database.
+A backend application designed to keep track of a user's reading activities. The application supports full CRUD operations, enabling users to create, view, update, and delete books they have read. It also features various endpoints for handling different operations, with data persistence managed through a PostgreSQL database.
 
-## Users
-____
+# Users
+___
 Readers
-____
 # Key Features
-____
-+ CRUD operations on data
-+ Persisted data 
-+ Specific endpoints for specific operations
-____
-# Personal Contributions 
-____
-**S** - At the completion of bootcamp, we were tasked with creating a backend application in order to show competencies amongst learned material. The project's topic was up to us to decide. Being that I'm a reader, figured it would be cool to make a backend app that keeps track of my reading. This would be helpful for me as I often read great books, remember the content, but forget the name. <br>
-**T** - I decided to create the project using Java, as that was the second language I learned during bootcamp. I used SpringBoot for the backend in order to handle routing, schemas, and HTTP requests. I opted to use PostgreSQL for my database, as it was very intutive to work with SpringBoot. I set up tables for users and books and used primary and foreign keys to associate the two. This project was worked on independently and I primarily used Git for version control. <br>
-**A** - I worked on the project independently and was able to create a flushed out backend server, attached to a database with CRUD functionality. Getting the relations set up between tables was an initial blocker as this was my first time working with a relational database for a personal project.  Another blocker was getting routing proper with SpringBoot, as this was the first project I've built using technologies outside of the JavaScript umbrella. <br>
-**R** - The completed application showcased the many concepts studied during the backend module of bootcamp. The app fulfilled it's purpose to the extent of showcasing the studying and effort that went into learning these new concepts and creating applications using them. Overall I learned that working in new languages are simply opportunities to grow and become a better programmer.
+___
+Full CRUD operations for book data management.
+Persistent data storage using a PostgreSQL database.
+Dedicated endpoints for specific operations.
+# Personal Contributions
+___
+**S** - Upon completing the bootcamp, we were tasked with creating a backend application to demonstrate our understanding of the material covered. The choice of project topic was left to us. As an avid reader, I decided to create a backend application to track my reading history. This would be beneficial for recalling not only the content of books I have read but also their titles.
+
+**T** - I chose to develop this project using Java, the second language I learned during bootcamp. I used Spring Boot for the backend to manage routing, schemas, and HTTP requests. PostgreSQL was selected as the database due to its intuitive integration with Spring Boot. I set up tables for users and books, using primary and foreign keys to establish relationships between them. This project was developed independently, with Git used for version control.
+
+**A** - I independently developed a fully functional backend server connected to a database with complete CRUD functionality. Establishing the relationships between the tables was a challenging initial hurdle, as this was my first personal project utilizing a relational database. Another challenge was configuring routing with Spring Boot, as this was my first experience developing outside the JavaScript ecosystem.
+
+**R** - The completed application effectively demonstrated the various concepts covered during the backend module of the bootcamp. It successfully fulfilled its purpose of showcasing my knowledge and effort in learning these new concepts and building applications with them. Overall, I learned that working with new languages presents valuable opportunities for growth and becoming a more proficient programmer.
 
 # Competencies
-____
+___
 ### JF 3.2 - Can explain the principles and uses of relational and non-relational databases.
-When working on this project, one of the first design decisions I had to make was how should I store data. I've been privy to working with non-relational databases in the past. However, when analyzing what I was trying to design I figured a relational database would suite my purposes better. Being that manipulating and fetching the data under certain conditions would be easier with a relational, and one of the main principles behind my application required the relation between books and readers. <br>
-### JF 3.4 Can Create a logical and maintainable codebase
-This project was my first Java project, so when working on it best practices were emphasized and followed to the best of my ability. Particularly with the structuring of directories. Housing certain functions next to related functions. Separating logic and understanding the communication between services has to be the most eye-opening aspect of working on this project.
+One of the initial design decisions for this project was determining how to store the data. Although I had prior experience with non-relational databases, I concluded that a relational database would better suit the project’s requirements. The need to manipulate and retrieve data under specific conditions, as well as the core relationship between books and readers, made a relational database the ideal choice.
 
-### Code and Resources
-____
-**Link to Youtube Video walking through project**: https://www.youtube.com/watch?v=vY3tXN2M-Kg <br>
+### JF 3.4 - Can create a logical and maintainable codebase.
+This project marked my first experience working with Java. I emphasized and adhered to best practices, particularly in directory structure. I organized related functions logically and separated concerns to facilitate clear communication between services. Understanding this structure was one of the most enlightening aspects of the project.
+
+# Code and Resources
+___
+**Link to YouTube Video walkthrough**: https://www.youtube.com/watch?v=vY3tXN2M-Kg <br/>
 **Link to project repository**: https://github.com/Ousman-T/Book-Keeping-App
