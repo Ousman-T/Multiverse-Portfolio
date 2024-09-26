@@ -17,3 +17,9 @@ ____
 ____
 # Competencies
 ____
+# JF 2.3 - Can develop effective user interfaces
+This project was essentailly about building a user friendly front end in order to display my other talents as a Software Engineer. The app was structured in a way to make navigation easy and important information easy to find. It's also been created in a manner that allows for continuous implementation and improvements. <br>
+# JF 2.5 - Can implement a responsive user interface
+I could've designed this application with vanilla javascript, and display my pages on seperate documents. However, I chose to use react specifically to make interaction with the app as seamless as possible. Using routing in order to delegate data to appropriate pages ensures that everything is placed where the intended user would expect to find it. The webpage was also designed with mobile apps in mind, making sure that design patterns react to the sizing of the device being used.<br>
+# JF 2.7 Effectively manage state for complex user interfaces
+This application definitely required some state management, especially for managing the daily quotes. I would pull the data from a 3rd party api in JSON format. I would then render said data onto the UI through state management.
